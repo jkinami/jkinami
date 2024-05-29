@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/jkinami"><img src="https://api.daily.dev/devcards/v2/e0XEM28tZ2BvhbAvvvEZx.png?type=default&r=013" width="356" alt="Junichi Kinami's Dev Card"/></a>
+<a href="https://app.daily.dev/jkinami"><img src="./devcard.png" width="356" alt="Junichi Kinami's Dev Card"/></a>
 
