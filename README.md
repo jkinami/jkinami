@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ## About me:
 
 ![jkinami's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkinami&show_icons=true&theme=dark)
+
+<a href="https://app.daily.dev/jkinami"><img src="./devcard.png" width="356" alt="Junichi Kinami's Dev Card"/></a>
