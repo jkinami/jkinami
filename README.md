@@ -11,6 +11,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <a href="https://app.daily.dev/jkinami"><img src="./devcard.png" width="356" alt="Junichi Kinami's Dev Card"/></a>
 
+
+-->
+
+# Greetings Citizen! <img src="https://github.com/user-attachments/assets/a0f12c91-5a3a-400a-9e28-b1dfe552f0e8" width="30px" height="30px" />
+
+## Welcome to my page
+
+![homer-simpson-the-simpsons](https://github.com/user-attachments/assets/7342353f-3dd9-4ac9-a8d4-d17838dcba2e)
+
+## About me:
+
+![jkinami's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkinami&show_icons=true&theme=dark)
